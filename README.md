@@ -108,5 +108,5 @@ And a handful of my favorite technologies:
 
   #### 🌎 I'm currently based in: Portland, ME
   </br>
-   💻 I'm currently working on: A fullstack web application according to client specifications
+   💻 I'm currently working on: Managing a fullstack web application according to client specifications
 </div>
