@@ -5,7 +5,7 @@
 
   #### A few useful links:
   [![LinkedIn](https://img.shields.io/badge/kyelindholm%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kyelindholm/)](https://www.linkedin.com/in/kyelindholm/)
-[![GitHub](https://img.shields.io/badge/kyelindholm%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kyelindholm)](https://github.com/kyelindholm)
+[![GitHub](https://img.shields.io/badge/kyelindholm%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/kyelindholm?tab=repositories)](https://github.com/kyelindholm)
 [![Gmail](https://img.shields.io/badge/kyelindholm%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:kyelindholm@gmail.com)](mailto:kyelindholm@gmail.com)
 </br>
 </br>
