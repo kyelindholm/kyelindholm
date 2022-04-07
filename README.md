@@ -108,5 +108,5 @@ And a handful of my favorite technologies:
 
   #### 🌎 I'm currently based in: Portland, ME
   </br>
-   💻 I'm currently working on: Landing my first job as a SWE!
+   💻 I'm currently working on: Finding a new SWE gig! Send any leads my way :)
 </div>
