@@ -106,7 +106,7 @@ And a handful of my favorite technologies:
 </br>
 <div align="center" style="color: white">
 
-  #### 🌎 I'm currently based in: Portland, ME
+  #### 🌎 I'm currently based in: Chicago, IL
   </br>
-   💻 I'm currently working on: Finding a new SWE gig! Send any leads my way :)
+   💻 I'm currently working on: learning the Reliability & Observability landscape at Checkr as an SRE
 </div>
